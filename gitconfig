@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = dupin.mathieu@gmail.com
+	name = Mathieu Dupin
